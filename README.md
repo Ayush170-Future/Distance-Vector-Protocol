@@ -1,7 +1,7 @@
 
 # Distance Vector Protocol Implementation 
 
-Bellman–Ford Algorithm aka Distance Vector Protocol is an iterative, asynchronous and distributed way of path finding routing paths in a network.  
+Bellman–Ford Algorithm aka Distance Vector Protocol is an iterative, asynchronous and distributed way of finding routing paths in a network.  
 
 
 ## Concept Used
