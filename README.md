@@ -36,7 +36,7 @@ Assign six port numbers between 1024 and 65535
 
 Six command prompts will pop up and execute.
     
-## Authors
+## Author
 
 - [@Ayush170-Future](https://github.com/Ayush170-Future)
 
