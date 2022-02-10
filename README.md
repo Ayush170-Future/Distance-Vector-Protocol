@@ -4,6 +4,9 @@
 Bellman–Ford Algorithm aka Distance Vector Protocol is an iterative, asynchronous and distributed way of finding routing paths in a network.  
 
 
+## [Medium link](https://medium.com/@ayushsingh.as1700/bellman-ford-in-distance-vector-dv-routing-protocol-using-java-5142560c40b0)
+
+
 ## Concepts Used
 
 **Computer Networks, Socket Programming, Multi-Threading and Graph Theory**
